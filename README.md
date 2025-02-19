@@ -1,5 +1,6 @@
 # California House Price Prediction
-![Application Screenshot]([app](https://github.com/user-attachments/assets/ed32311a-544a-45b2-ba14-8dba23648930))
+![Application Screenshot]"C:\Users\user\Desktop\deepali\projects\ve3\app.jpg"
+
 This is a Flask web application that predicts house prices in California based on various features using a trained machine learning model.
 
 ## Features
